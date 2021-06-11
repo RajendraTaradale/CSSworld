@@ -23,3 +23,5 @@ This repository contains all new css/scss explorations and UI frameworks and man
 :heavy_plus_sign: https://www.primefaces.org/primereact/
 
 :heavy_plus_sign: https://medium.com/quick-code/coolest-25-web-design-trends-in-2021-thatll-rock-the-world-388eb1144b7e - Coolest 25+ Web Design Trends In 2021, that’ll rock the world
+
+:heavy_plus_sign: https://dribbble.com/tags/glassmorphism1
